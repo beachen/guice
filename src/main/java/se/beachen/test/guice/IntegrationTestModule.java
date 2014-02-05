@@ -3,8 +3,6 @@ package se.beachen.test.guice;
 import java.io.IOException;
 import java.util.Properties;
 
-import se.beachen.test.guice.service.MyCoolServiceFacade;
-
 import com.google.inject.Binder;
 import com.google.inject.Module;
 import com.google.inject.matcher.Matchers;
